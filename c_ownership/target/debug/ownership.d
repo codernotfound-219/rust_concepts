@@ -1,0 +1,1 @@
+/Users/aswatt/Development/Rust/Concepts/ownership/target/debug/ownership: /Users/aswatt/Development/Rust/Concepts/ownership/src/example1.rs /Users/aswatt/Development/Rust/Concepts/ownership/src/example2.rs /Users/aswatt/Development/Rust/Concepts/ownership/src/main.rs
