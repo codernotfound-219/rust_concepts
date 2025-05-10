@@ -1,0 +1,1 @@
+/Users/aswatt/Development/Rust/Concepts/p_closures/target/debug/p_closures: /Users/aswatt/Development/Rust/Concepts/p_closures/src/examples.rs /Users/aswatt/Development/Rust/Concepts/p_closures/src/main.rs
